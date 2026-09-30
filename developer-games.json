@@ -234,6 +234,9 @@
   "beasts-of-bermuda": {
     "compatibility": "yellow"
   },
+  "beautiful-light": {
+    "compatibility": "green"
+  },
   "bellwright": {
     "compatibility": "green"
   },
@@ -1072,6 +1075,12 @@
   "grand-emprise-time-travel-survival": {
     "compatibility": "green"
   },
+  "grand-theft-auto-2": {
+    "compatibility": "green"
+  },
+  "grand-theft-auto-iv": {
+    "compatibility": "green"
+  },
   "grand-theft-auto-the-trilogy-the-definitive-edition": {
     "compatibility": "green"
   },
@@ -1613,6 +1622,9 @@
   "nba-2k26": {
     "compatibility": "green"
   },
+  "nba-2k27": {
+    "compatibility": "green"
+  },
   "nba-the-run": {
     "compatibility": "green"
   },
@@ -1702,6 +1714,9 @@
     "compatibility": "green"
   },
   "off-the-grid": {
+    "compatibility": "green"
+  },
+  "once-alive": {
     "compatibility": "green"
   },
   "once-human": {
@@ -2414,6 +2429,9 @@
   },
   "the-diofield-chronicle": {
     "compatibility": "yellow"
+  },
+  "the-elder-scrolls-iii-morrowind": {
+    "compatibility": "green"
   },
   "the-elder-scrolls-iv-oblivion-remastered": {
     "compatibility": "green"
