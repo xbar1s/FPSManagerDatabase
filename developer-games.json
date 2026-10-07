@@ -69,6 +69,9 @@
   "aliens-dark-descent": {
     "compatibility": "yellow"
   },
+  "aliens-fireteam-elite-2": {
+    "compatibility": "green"
+  },
   "alone-in-the-dark-2024": {
     "compatibility": "green"
   },
@@ -1822,6 +1825,9 @@
     "compatibility": "green"
   },
   "planetside-2": {
+    "compatibility": "green"
+  },
+  "playerunknowns-battlegrounds": {
     "compatibility": "green"
   },
   "pluviophile": {
