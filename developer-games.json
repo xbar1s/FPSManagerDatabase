@@ -26,6 +26,9 @@
   "a-quiet-place-the-road-ahead": {
     "compatibility": "green"
   },
+  "ace-combat-8-wings-of-theve": {
+    "compatibility": "green"
+  },
   "achilles-legends-untold": {
     "compatibility": "green"
   },
@@ -234,6 +237,9 @@
   "bears-in-space": {
     "compatibility": "green"
   },
+  "beast-of-reincarnation": {
+    "compatibility": "green"
+  },
   "beasts-of-bermuda": {
     "compatibility": "yellow"
   },
@@ -270,6 +276,9 @@
   "blood-bowl-3": {
     "compatibility": "green"
   },
+  "blood-of-dawnwalker": {
+    "compatibility": "green"
+  },
   "bodycam": {
     "compatibility": "green"
   },
@@ -283,6 +292,9 @@
     "compatibility": "green"
   },
   "boundary-2023": {
+    "compatibility": "green"
+  },
+  "breathedge-2": {
     "compatibility": "green"
   },
   "brick-rigs": {
@@ -328,6 +340,9 @@
     "compatibility": "green"
   },
   "call-of-duty-modern-warfare-iii": {
+    "compatibility": "green"
+  },
+  "call-of-duty-modern-warfare-iv": {
     "compatibility": "green"
   },
   "call-of-duty-vanguard": {
@@ -452,6 +467,9 @@
     "compatibility": "green"
   },
   "crimson-desert": {
+    "compatibility": "green"
+  },
+  "crimson-moon": {
     "compatibility": "green"
   },
   "cronos-the-new-dawn": {
@@ -1225,6 +1243,9 @@
   "horizon-zero-dawn-remastered": {
     "compatibility": "green"
   },
+  "hot-wheels-infinite-rush": {
+    "compatibility": "green"
+  },
   "hot-wheels-unleashed": {
     "compatibility": "green"
   },
@@ -1532,10 +1553,16 @@
   "meet-your-maker": {
     "compatibility": "yellow"
   },
+  "metro-2033-redux": {
+    "compatibility": "green"
+  },
   "metro-exodus": {
     "compatibility": "green"
   },
   "metro-exodus-enhanced-edition": {
+    "compatibility": "green"
+  },
+  "metro-last-light-redux": {
     "compatibility": "green"
   },
   "miasma-chronicles": {
@@ -1582,6 +1609,9 @@
   },
   "monster-hunter-world": {
     "compatibility": "green"
+  },
+  "moonlighter-2-the-endless-vault": {
+    "compatibility": "yellow"
   },
   "mortal-kombat-1": {
     "compatibility": "green"
@@ -2132,6 +2162,9 @@
     "compatibility": "green"
   },
   "silent-hill-f": {
+    "compatibility": "green"
+  },
+  "silent-hill-townfall": {
     "compatibility": "green"
   },
   "silent-rain": {
