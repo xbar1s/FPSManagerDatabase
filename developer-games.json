@@ -84,6 +84,9 @@
   "amid-evil": {
     "compatibility": "green"
   },
+  "among-the-trolls": {
+    "compatibility": "green"
+  },
   "ananta": {
     "compatibility": "green"
   },
@@ -405,6 +408,9 @@
   "cions-of-vega": {
     "compatibility": "green"
   },
+  "citadels": {
+    "compatibility": "yellow"
+  },
   "cities-skylines-ii": {
     "compatibility": "green"
   },
@@ -422,6 +428,9 @@
   },
   "classified-france-44": {
     "compatibility": "yellow"
+  },
+  "clive-barkers-hellraiser-revival": {
+    "compatibility": "green"
   },
   "code-alkonost-awakening-of-evil": {
     "compatibility": "green"
@@ -533,6 +542,9 @@
   "daymare-1994-sandcastle": {
     "compatibility": "green"
   },
+  "days-gone": {
+    "compatibility": "green"
+  },
   "dead-as-disco": {
     "compatibility": "green"
   },
@@ -635,6 +647,9 @@
   "desynced-autonomous-colony-simulator": {
     "compatibility": "green"
   },
+  "detroit-become-human": {
+    "compatibility": "green"
+  },
   "diablo-4": {
     "compatibility": "green"
   },
@@ -719,6 +734,9 @@
   },
   "dying-light-the-beast": {
     "exe_relative_path": "ph_ft/work/bin/x64/DyingLightGame_TheBeast_x64_rwdi.exe",
+    "compatibility": "green"
+  },
+  "dynasty-warriors-3-complete-edition-remastered": {
     "compatibility": "green"
   },
   "dynasty-warriors-origins": {
@@ -1033,6 +1051,9 @@
     "compatibility": "yellow"
   },
   "gang-of-sherwood": {
+    "compatibility": "green"
+  },
+  "gearclub-unlimited-3": {
     "compatibility": "green"
   },
   "gears-of-war-eday": {
@@ -1486,6 +1507,9 @@
   "lost-soul-aside": {
     "compatibility": "green"
   },
+  "luma-framework": {
+    "compatibility": "green"
+  },
   "luminary": {
     "compatibility": "green"
   },
@@ -1553,6 +1577,9 @@
   "meet-your-maker": {
     "compatibility": "yellow"
   },
+  "metal-gear-solid-v-the-phantom-pain": {
+    "compatibility": "green"
+  },
   "metro-2033-redux": {
     "compatibility": "green"
   },
@@ -1581,6 +1608,9 @@
     "compatibility": "green"
   },
   "minecraft-bedrock-edition": {
+    "compatibility": "green"
+  },
+  "minecraft-java-edition": {
     "compatibility": "green"
   },
   "mirrors-edge": {
@@ -1821,6 +1851,9 @@
   "perish": {
     "compatibility": "green"
   },
+  "permafrost": {
+    "compatibility": "green"
+  },
   "pga-tour-2k23": {
     "compatibility": "green"
   },
@@ -1849,6 +1882,9 @@
     "compatibility": "green"
   },
   "planet-coaster-2": {
+    "compatibility": "green"
+  },
+  "planet-zoo-2": {
     "compatibility": "green"
   },
   "planetaries": {
@@ -2409,6 +2445,9 @@
   "tchia": {
     "compatibility": "green"
   },
+  "teardown": {
+    "compatibility": "green"
+  },
   "tekken-8": {
     "compatibility": "green"
   },
@@ -2440,6 +2479,9 @@
     "compatibility": "green"
   },
   "the-black-pool": {
+    "compatibility": "green"
+  },
+  "the-boss-gangster-criminal-empire": {
     "compatibility": "green"
   },
   "the-bridge-curse-road-to-salvation": {
