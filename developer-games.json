@@ -2783,6 +2783,9 @@
   "void-crew": {
     "compatibility": "green"
   },
+  "voidbreaker": {
+    "compatibility": "green"
+  },
   "voidtrain": {
     "compatibility": "green"
   },
