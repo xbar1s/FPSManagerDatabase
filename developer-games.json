@@ -1133,6 +1133,9 @@
     "exe_relative_path": "GTA5_Enhanced.exe",
     "compatibility": "green"
   },
+  "gravhounds": {
+    "compatibility": "green"
+  },
   "gray-zone-warfare": {
     "compatibility": "green"
   },
@@ -1277,6 +1280,9 @@
     "compatibility": "green"
   },
   "hunt-showdown": {
+    "compatibility": "green"
+  },
+  "hunting-simulator-3": {
     "compatibility": "green"
   },
   "hydroneer": {
